@@ -25,6 +25,21 @@ The objective of this project is to analyze Kickstarter campaign data and unders
 ## Project Screenshots
 Dashboard screenshots are available in this repository.
 
+### Dashboard Screenshot 1
+![Dashboard 1](Screenshot%202026-11-05%20155219.png)
+
+### Dashboard Screenshot 2
+![Dashboard 2](Screenshot%202026-11-05%20155232.png)
+
+### Dashboard Screenshot 3
+![Dashboard 3](Screenshot%202026-11-05%20155239.png)
+
+### Dashboard Screenshot 4
+![Dashboard 4](Screenshot%202026-11-05%20155250.png)
+
+### Dashboard Screenshot 5
+![Dashboard 5](Screenshot%202026-11-05%20155304.png)
+
 ## Project Files
 - `kickstarter_recording.mp4` – Dashboard demonstration video
 - Dashboard screenshots – Visual representation of the analysis
